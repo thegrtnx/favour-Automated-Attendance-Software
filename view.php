@@ -32,7 +32,7 @@
                   <div class="card mb-4">
                     <div class="card-body">
                     <div class="mb-3 col-12">
-                            <label for="exampleFormControlInput1" class="form-label"> Select Department</label>
+                            <label for="exampleFormControlInput1" class="form-label"> Select Level</label>
                             <select class="form-select" id="category" aria-label="Default select example">
                             <option>Select Option</option>
                             <?php echo getcategories(); ?>
