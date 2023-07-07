@@ -104,7 +104,7 @@
                             />
                         </div>
                         <div class="mb-3 col-6">
-                            <label for="exampleFormControlInput1" class="form-label"> Department</label>
+                            <label for="exampleFormControlInput1" class="form-label"> Level</label>
                             <select class="form-select" id="category" aria-label="Default select example">
                             <?php echo getcategories(); ?>
                         </select>
